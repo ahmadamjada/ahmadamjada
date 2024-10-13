@@ -29,7 +29,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="100">
     </td>
     <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/WordPress_simple.svg/640px-WordPress_simple.svg.png" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/WordPress_logo.svg" width="100">
     </td>
     <td align='center' width="200">
         <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="100">
